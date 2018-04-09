@@ -94,6 +94,13 @@
     "category": "Development"
   },
   {
+    "projectName": "clufter",
+    "projectDescription": "Tool for transforming/analyzing cluster configuration formats",
+    "projectRepository": "https://github.com/jnpkrn/clufter",
+    "projectWebsite": "https://pagure.io/clufter",
+    "category": "Operations"
+  },
+  {
     "projectName": "containers/image",
     "projectDescription": "A library for working with container images",
     "projectRepository": "https://github.com/containers/image",
