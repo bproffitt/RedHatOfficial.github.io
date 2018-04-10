@@ -94,13 +94,6 @@
     "category": "Development"
   },
   {
-    "projectName": "clufter",
-    "projectDescription": "Tool for transforming/analyzing cluster configuration formats",
-    "projectRepository": "https://github.com/jnpkrn/clufter",
-    "projectWebsite": "https://pagure.io/clufter",
-    "category": "Operations"
-  },
-  {
     "projectName": "containers/image",
     "projectDescription": "A library for working with container images",
     "projectRepository": "https://github.com/containers/image",
@@ -961,6 +954,13 @@
     "projectDescription": "Jenkins CI master/slave configuration",
     "projectRepository": "https://github.com/RedHatQE/cinch",
     "projectWebsite": "https://redhatqe-cinch.readthedocs.io/en/latest/",
+    "category": "Operations"
+  },
+  {
+    "projectName": "clufter",
+    "projectDescription": "Tool for transforming/analyzing cluster configuration formats",
+    "projectRepository": "https://github.com/jnpkrn/clufter",
+    "projectWebsite": "https://pagure.io/clufter",
     "category": "Operations"
   },
   {
